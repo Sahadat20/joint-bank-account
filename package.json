@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@nomicfoundation/hardhat-ignition": "^0.15.5",
     "hardhat": "^2.22.7"
   },
   "devDependencies": {
